@@ -3,7 +3,8 @@ body {
   font-size: 16px;
 }
 header{
-  background-color: aliceblue;
+  background-color: rgb(168, 204, 235);
+  text-align: center ;
 }
 
 textarea {
