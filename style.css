@@ -1,9 +1,10 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-color: aliceblue;
 }
 header{
-  background-color: rgb(168, 204, 235);
+  background-color: rgb(125, 136, 146);
   text-align: center ;
 }
 
